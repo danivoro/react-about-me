@@ -3,7 +3,7 @@ import { capitalise } from "../utils/capitalise";
 function MainContent(): JSX.Element {
   const location = {
     city: "Moskow",
-    country: "Malaysia",
+    country: "Russia",
   };
 
   const numOne = 3;
